@@ -1,1 +1,36 @@
+h1 {
+    color: darkslategrey;
+    text-align: center;
+    font-size: 40px;
 
+}
+h2 {
+    color: black;
+}
+h3 {
+    color: darkmagenta ;
+}
+h5 {
+    font-style: italic;
+}
+body {
+    background-image: url(../images/karl-kohler-N_MXyBUV5hU-unsplash-1-scaled-e1658697590656.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 200vh;
+    background-blend-mode:soft-light;
+    background-image: url(../images/karl-kohler-N_MXyBUV5hU-unsplash-1-scaled-e1658697590656.jpg);
+    opacity: 0.2;
+    
+
+     
+}
+img{
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 10px;
+
+
+}
